@@ -80,3 +80,7 @@ C:\Users\DELL Latitude E6520\Desktop\ShopOnline\ShopOnline\bin\Microsoft.Owin.Se
 C:\Users\DELL Latitude E6520\Desktop\ShopOnline\ShopOnline\obj\Debug\ShopOnline.csprojResolveAssemblyReference.cache
 C:\Users\DELL Latitude E6520\Desktop\ShopOnline\ShopOnline\obj\Debug\ShopOnline.dll
 C:\Users\DELL Latitude E6520\Desktop\ShopOnline\ShopOnline\obj\Debug\ShopOnline.pdb
+C:\Users\DELL Latitude E6520\Desktop\ShopOnline\ShopOnline\bin\PagedList.dll
+C:\Users\DELL Latitude E6520\Desktop\ShopOnline\ShopOnline\bin\PagedList.Mvc.dll
+C:\Users\DELL Latitude E6520\Desktop\ShopOnline\ShopOnline\bin\PagedList.xml
+C:\Users\DELL Latitude E6520\Desktop\ShopOnline\ShopOnline\bin\PagedList.Mvc.xml
